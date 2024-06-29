@@ -15,7 +15,7 @@
 </a>
 
 ## Tecnologias que eu uso no meu dia
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Notebook de um programador">
 <div style="diplay: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -23,6 +23,7 @@
   <img align="center" alt="React js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="Styled-components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
 <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+
 </div><br/>
 
 Sou um estudante de Sistemas de Informação em desenvolvimento contínuo, apaixonado por tecnologia e inovação. Estou construindo meu conhecimento gradualmente, com foco em aprimorar minhas habilidades e adquirir novas competências que me tornarão um profissional preparado para enfrentar os desafios do futuro <br/>
@@ -35,3 +36,5 @@ Sou um estudante de Sistemas de Informação em desenvolvimento contínuo, apaix
 </div>
 
 ### E-mail para contato: immark5507@gmail.com
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
