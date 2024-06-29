@@ -8,8 +8,8 @@
 <a href="https://github.com/immark007">
   <table>
     <tr>
-      <td><img height="180" src="https://github-readme-stats.vercel.app/api?username=immark007&show_icons=true&theme=onedark" /></td>
-      <td><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=immark007&layout=compact&theme=onedark" /></td>
+      <td><img height="180" src="https://github-readme-stats.vercel.app/api?username=immark007&show_icons=true&theme=dracula" /></td>
+      <td><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=immark007&layout=compact&theme=dracula" /></td>
     </tr>
   </table>
 </a>
