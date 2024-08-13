@@ -45,7 +45,7 @@
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
   <br>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=immark007&show_icons=true&theme=jolly" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?immark007=anuraghazra&show_icons=true&theme=jolly" />
 
   <a href="https://github.com/immark007/github-readme-stats">
    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=immark007&layout=compact&theme=jolly" />
