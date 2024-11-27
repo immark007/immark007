@@ -16,7 +16,6 @@
     ├── /𝐁𝐈𝐎
     │    ├── HE/HIM - Braziliam
     │    ├── Sistema de Informação
-    │    └── ᴇᴍʙᴇᴅᴅᴇᴅ ꜱʏꜱᴛᴇᴍꜱ ᴅᴇᴠᴇʟᴏᴘᴇʀ ɪɴ ʀ&ᴅ ꜱᴇᴄᴛᴏʀ
     │
     ├── /𝐎𝐒
     │    ├── /Linux (main)
