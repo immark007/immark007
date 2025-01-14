@@ -47,7 +47,7 @@
 <details>
 <summary> 𝑪𝒐𝒅𝒆 𝑺𝒕𝒂𝒕𝒔 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ━ ━━━</summary>
 <br>
- ![immark007's GitHub stats](https://github-readme-stats-pkopoto69-immarks-projects.vercel.app/api?username=immark007&show_icons=true&theme=radical)
+ <img height="180" src="https://github-readme-stats.vercel.app/api?username=immark007&show_icons=true&theme=transparent"
 <br>
 </details>
 
