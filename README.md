@@ -46,8 +46,9 @@
 
 <details>
 <summary> 𝑪𝒐𝒅𝒆 𝑺𝒕𝒂𝒕𝒔 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ━ ━━━</summary>
-<br>
- <img height="180" src="https://github-readme-stats.vercel.app/api?username=immark007&show_icons=true&theme=transparent"
+<br >
+ <img height="180" width="auto" src="https://github-readme-stats.vercel.app/api?username=immark007&show_icons=true&theme=transparent"/>
+ <img height="180" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloNobrega29&layout=compact&theme=transparent" />
 <br>
 </details>
 
