@@ -1,56 +1,61 @@
 <table>
   <tr>
     <td style="width: 50%;">
-       <img src="transferir (1).png" alt="Asuka" style="width: 200%; border: none;"/>
+      <picture>
+        <!-- A imagem padrão para telas grandes -->
+        <source media="(max-width: 768px)" srcset="" />
+        <img src="transferir (1).png" alt="Asuka" style="width: 100%; border: none;"/>
+      </picture>
     </td>
     <td style="width: 50%; vertical-align: top;">
       <p style="font-family: monospace; font-size: 16px;"> 
+        𝙈𝙖𝙧𝙘𝙤𝙨 𝙆𝙖𝙪𝙖̃
+      </p>
 
-        
-     Marcos Kauã
-
-</p>
-
-    /𝐀𝐁𝐎𝐔𝐓 𝐌𝐄
-    │
-    ├── /𝐁𝐈𝐎
-    │    ├── HE/HIM - Braziliam
-    │    ├── Sistema de Informação
-    │
-    ├── /𝐎𝐒
-    │    ├── /Linux (main)
-    │    │   └── UBUNTU_v24.04-LTS
-    │    └── /Windows
-    │        └── /Windows_11
-    │
-    ├── /𝐒𝐓𝐀𝐂𝐊
-    │    ├── /MySQl e NoSQL
-    │    │   └── (PostgreSQL and MongoDB)
-    │    ├── Java SpringBoot
-    │    ├── React Js and React Native
-    │    ├── TypeScript
-    │    ├── NodeJS
-    │    ├── NextJS
-    │    ├── Dart
-    │    ├── Flutter
-    │    ├── Figma
-    │    └── Study Angular
-    │
-    └── /𝐈𝐃𝐄𝐬
-        ├── IntelliJ
-        ├── Vscode
-        ├── Eclipse
-        
+      /𝐀𝐁𝐎𝐔𝐓 𝐌𝐄
+      │
+      ├── /𝐁𝐈𝐎
+      │    ├── HE/HIM - Braziliam
+      │    ├── Sistemas de Informação
+      │
+      ├── /𝐎𝐒
+      │    ├── /Linux (main)
+      │    │   └── UBUNTU_v24.04-LTS
+      │    └── /Windows
+      │        └── /Windows_11
+      │
+      ├── /𝐒𝐓𝐀𝐂𝐊
+      │    ├── /MySQL e NoSQL
+      │    │   └── (PostgreSQL, MySQL, h2, MariaDB and MongoDB)
+      │    ├── Java
+      │    ├── Spring Boot
+      │    ├── Docker
+      │    ├── AWS
+      │    ├── Node Js
+      │    ├── React
+      │    ├── TypeScript
+      │    ├── Figma
+      │    └── Study Angular
+      │
+      └── /𝐈𝐃𝐄𝐬
+          ├── IntelliJ
+          ├── Vscode
+          ├── Eclipse
+    </td>
   </tr>
 </table>
 
+
 <details>
-<summary> 𝑪𝒐𝒅𝒆 𝑺𝒕𝒂𝒕𝒔 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ━ ━━━</summary>
-<br >
- <img height="180" width="auto" src="https://github-readme-stats.vercel.app/api?username=immark007&show_icons=true&theme=transparent"/>
- <img height="180" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloNobrega29&layout=compact&theme=transparent" />
-<br>
+  <summary> 𝑪𝒐𝒅𝒆 𝑺𝒕𝒂𝒕𝒔 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ━ ━━━</summary>
+  <br>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=immark007&show_icons=true&theme=transparent" height="180px" width="49%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloNobrega29&layout=compact&theme=transparent" height="180px" width="49%">
+  </div>
+  <br>
 </details>
+
 
 
 
