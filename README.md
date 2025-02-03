@@ -25,7 +25,7 @@
     │
     ├── /𝐒𝐓𝐀𝐂𝐊
     │    ├── /MySQl e NoSQL
-    │    │   └── (PostgreSQL, MySQL, h2, MariaDB and MongoDB)
+    │    │   └── (PostgreSQL, SQL, h2, MariaDB and MongoDB)
     │    ├── Java
     │    ├── Spring Boot
     │    ├── Docker
