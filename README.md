@@ -14,7 +14,7 @@
     /𝐀𝐁𝐎𝐔𝐓 𝐌𝐄
     │
     ├── /𝐁𝐈𝐎
-    │    ├── HE/HIM - Braziliam
+    │    ├── HE/HIM - Brazilian
     │    ├── Sistemas de Informação
     │
     ├── /𝐎𝐒
@@ -30,7 +30,7 @@
     │    ├── Spring Boot
     │    ├── Docker
     │    ├── AWS
-    │    ├── Node Js
+    │    ├── Node.js
     │    ├── React
     │    ├── TypeScript
     │    ├── Figma
