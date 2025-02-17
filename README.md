@@ -29,7 +29,6 @@
     │    ├── Java
     │    ├── Spring Boot
     │    ├── Docker
-    │    ├── AWS
     │    ├── Node.js
     │    ├── React
     │    ├── TypeScript
